@@ -1,0 +1,13 @@
+Package: BBS
+Type: Package
+Title: BBS
+Version: 1.0
+Date: 2015-07-30
+Author: M.T.Hallworth <mhallworth@gmail.com>
+Maintainer: M.T.Hallworth <mhallworth@gmail.com>
+Description: Reads in relative abundance data from USGS's Breeding Bird Survey Website
+License: MIT
+LazyLoad: true
+Imports:raster,
+        rgdal,
+        sp

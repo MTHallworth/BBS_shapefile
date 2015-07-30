@@ -1,0 +1,13 @@
+* installing *source* package 'BBS' ...
+** R
+** data
+** preparing package for lazy loading
+** help
+Warning: G:/Google_Drive/Hallworth_Rpackages/BBS.Rcheck/00_pkg_src/BBS/man/BBS-package.Rd:33: All text must be in a section
+Warning: G:/Google_Drive/Hallworth_Rpackages/BBS.Rcheck/00_pkg_src/BBS/man/BBS-package.Rd:34: All text must be in a section
+*** installing help indices
+** building package indices
+Warning in scan(file, what, nmax, sep, dec, quote, skip, nlines, na.strings,  :
+  EOF within quoted string
+** testing if installed package can be loaded
+* DONE (BBS)
