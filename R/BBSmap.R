@@ -6,7 +6,8 @@
 #'with the alpha code
 #'@export
 BBSmap<-function(SpeciesCode){
-  Birds<-read.csv("data/NAbirdsList.csv",header=TRUE)
+ Birds<-data(NAbirdsList)
+  #Birds<-read.csv("data/NAbirdsList.csv",header=TRUE)
   x<-SpeciesCode
   y<-destfile<-exdir<-rep(NA,length(x))  
   shapes<-vector('list',length(x))
