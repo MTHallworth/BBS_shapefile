@@ -4,7 +4,7 @@
 \alias{BBSmap}
 \title{Read in BBS Relative Abundance Shapefile}
 \usage{
-data(BirdList)
+data(BirdList.txt)
 }
 \arguments{
 \item{SpeciesCode}{= x - vector of species alpha codes}
