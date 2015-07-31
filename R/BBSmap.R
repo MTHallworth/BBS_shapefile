@@ -4,7 +4,7 @@
 #'@return returns a shapefile with relative abundance information; 
 #'if more than one alpha code is supplied returns a list of shapfiles named
 #'with the alpha code
-#'@usage data(BirdList.txt)
+#'@usage data(Birds)
 #'@export
 BBSmap<-function(SpeciesCode){
   x<-SpeciesCode
