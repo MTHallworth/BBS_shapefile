@@ -1,24 +1,24 @@
-Common Name English	AOU 	GenusSpecies	FourLetter
-(Audubon's Warbler) Yellow-rumped Warbler	6560	#N/A	#N/A
-(Black Brant) Brant	1740	#N/A	#N/A
-(Blue Goose) Snow Goose	1691	#N/A	#N/A
-(Gray-headed Junco) Dark-eyed Junco	5690	#N/A	#N/A
-(Harlan's Hawk) Red-tailed Hawk	3380	#N/A	#N/A
-(Mexican Duck) Mallard	1331	#N/A	#N/A
-(Myrtle Warbler) Yellow-rumped Warbler	6550	#N/A	#N/A
-(Oregon Junco) Dark-eyed Junco	5671	#N/A	#N/A
-(Pink-sided Junco) Dark-eyed Junco	5680	#N/A	#N/A
-(Red-shafted Flicker) Northern Flicker	4130	#N/A	#N/A
-(Slate-colored Junco) Dark-eyed Junco	5670	#N/A	#N/A
-(unid. Myrtle/Audubon's) Yellow-rumped Warbler	6556	#N/A	#N/A
-(unid. race) Dark-eyed Junco	5677	#N/A	#N/A
-(unid. Red/Yellow Shafted) Northern Flicker	4123	#N/A	#N/A
-(White-winged Junco) Dark-eyed Junco	5660	#N/A	#N/A
-(Yellow-shafted Flicker) Northern Flicker	4120	#N/A	#N/A
+CommonNameEnglish	AOU 	GenusSpecies	FourLetter
+(Audubon's Warbler) Yellow-rumped Warbler	6560		
+(Black Brant) Brant	1740		
+(Blue Goose) Snow Goose	1691		
+(Gray-headed Junco) Dark-eyed Junco	5690		
+(Harlan's Hawk) Red-tailed Hawk	3380		
+(Mexican Duck) Mallard	1331		
+(Myrtle Warbler) Yellow-rumped Warbler	6550		
+(Oregon Junco) Dark-eyed Junco	5671		
+(Pink-sided Junco) Dark-eyed Junco	5680		
+(Red-shafted Flicker) Northern Flicker	4130		
+(Slate-colored Junco) Dark-eyed Junco	5670		
+(unid. Myrtle/Audubon's) Yellow-rumped Warbler	6556		
+(unid. race) Dark-eyed Junco	5677		
+(unid. Red/Yellow Shafted) Northern Flicker	4123		
+(White-winged Junco) Dark-eyed Junco	5660		
+(Yellow-shafted Flicker) Northern Flicker	4120		
 Abert's Towhee	5920	Melozone aberti	ABTO
 Acadian Flycatcher	4650	Empidonax virescens	ACFL
 Acorn Woodpecker	4070	Melanerpes formicivorus	ACWO
-African Collared-Dove (a.k.a. Ringed Turtle-Dove)	3152	#N/A	#N/A
+African Collared-Dove (a.k.a. Ringed Turtle-Dove)	3152		
 Agami Heron	10150	Agamia agami	AGHE
 Alder Flycatcher	4661	Empidonax alnorum	ALFL
 Aleutian Tern	730	Onychoprion aleuticus	ALTE
@@ -175,7 +175,7 @@ Brandt's Cormorant	1220	Phalacrocorax penicillatus	BRAC
 Brant	1730	Branta bernicla	BRAN
 Brewer's Blackbird	5100	Euphagus cyanocephalus	BRBL
 Brewer's Sparrow	5620	Spizella breweri	BRSP
-Brewster's Warbler (Golden-winged x Blue-winged)	6412	#N/A	#N/A
+Brewster's Warbler (Golden-winged x Blue-winged)	6412		
 Bridled Tern	760	Onychoprion anaethetus	BRTE
 Bridled Titmouse	7340	Baeolophus wollweberi	BRTI
 Bright-rumped Attila	15580	Attila spadiceus	BRAT
@@ -256,7 +256,7 @@ Clark's Nutcracker	4910	Nucifraga columbiana	CLNU
 Clay-colored Sparrow	5610	Spizella pallida	CCSP
 Clay-colored Thrush	7621	Turdus grayi	CCTH
 Cliff Swallow	6120	Petrochelidon pyrrhonota	CLSW
-Cockatiel	81650	#N/A	#N/A
+Cockatiel	81650		
 Colima Pygmy-Owl	11960	Glaucidium palmarum	CPYO
 Colima Warbler	6471	Oreothlypis crissalis	COLW
 Collared Forest-Falcon	10520	Micrastur semitorquatus	COFF
@@ -297,7 +297,7 @@ Crescent-chested Warbler	6492	Oreothlypis superciliosa	CCWA
 Crested Auklet	180	Aethia cristatella	CRAU
 Crested Caracara	3620	Caracara cheriway	CRCA
 Crested Guan	10600	Penelope purpurascens	CRGU
-Crested Myna	4931	#N/A	#N/A
+Crested Myna	4931		
 Crimson-collared Grosbeak	5941	Rhodothraupis celaeno	CCGR
 Crissal Thrasher	7120	Toxostoma crissale	CRTH
 Curve-billed Thrasher	7070	Toxostoma curvirostre	CBTH
@@ -323,7 +323,7 @@ Eastern Towhee	5870	Pipilo erythrophthalmus	EATO
 Eastern Whip-poor-will	4171	Antrostomus vociferus	EWPW
 Eastern Wood-Pewee	4610	Contopus virens	EAWP
 Eastern Yellow Wagtail	6960	Motacilla tschutschensis	EYWA
-Egyptian Goose	20630	#N/A	#N/A
+Egyptian Goose	20630		
 Elegant Euphonia	6060	Euphonia elegantissima	ELEU
 Elegant Quail	10780	Callipepla douglasii	ELQU
 Elegant Tern	660	Thalasseus elegans	ELTE
@@ -457,12 +457,12 @@ House Sparrow	6882	Passer domesticus	HOSP
 House Wren	7210	Troglodytes aedon	HOWR
 Hudsonian Godwit	2510	Limosa haemastica	HUGO
 Hutton's Vireo	6320	Vireo huttoni	HUVI
-hybrid Bullock's Oriole x Baltimore Oriole	5078	#N/A	#N/A
-hybrid Lazuli Bunting x Indigo Bunting	5986	#N/A	#N/A
-hybrid Mallard x Black Duck or Mottled Duck	1326	#N/A	#N/A
-hybrid Northern Flicker (Red x Yellow-shafted)	4125	#N/A	#N/A
-hybrid Red-naped x Red-breasted Sapsucker	4031	#N/A	#N/A
-hybrid Western Gull x Glaucous-winged Gull	495	#N/A	#N/A
+hybrid Bullock's Oriole x Baltimore Oriole	5078		
+hybrid Lazuli Bunting x Indigo Bunting	5986		
+hybrid Mallard x Black Duck or Mottled Duck	1326		
+hybrid Northern Flicker (Red x Yellow-shafted)	4125		
+hybrid Red-naped x Red-breasted Sapsucker	4031		
+hybrid Western Gull x Glaucous-winged Gull	495		
 Iceland Gull	430	Larus glaucoides	ICGU
 Inca Dove	3210	Columbina inca	INDO
 Indian Peafowl	3095	Pavo cristatus	INPE
@@ -489,7 +489,7 @@ Lark Sparrow	5520	Chondestes grammacus	LASP
 Laughing Falcon	10490	Herpetotheres cachinnans	LAFA
 Laughing Gull	580	Leucophaeus atricilla	LAGU
 Lawrence's Goldfinch	5310	Spinus lawrencei	LAGO
-Lawrence's Warbler (Golden-winged x Blue-winged)	6413	#N/A	#N/A
+Lawrence's Warbler (Golden-winged x Blue-winged)	6413		
 Lazuli Bunting	5990	Passerina amoena	LAZB
 Le Conte's Sparrow	5480	Ammodramus leconteii	LCSP
 Le Conte's Thrasher	7110	Toxostoma lecontei	LCTH
@@ -537,7 +537,7 @@ Magnificent Frigatebird	1280	Fregata magnificens	MAFR
 Magnificent Hummingbird	4260	Eugenes fulgens	MAHU
 Magnolia Warbler	6570	Setophaga magnolia	MAWA
 Mallard	1320	Anas platyrhynchos	MALL
-Mandarin Duck	20670	#N/A	#N/A
+Mandarin Duck	20670		
 Mangrove Cuckoo	3860	Coccyzus minor	MACU
 Mangrove Swallow	16170	Tachycineta albilinea	MANS
 Mangrove Vireo	17280	Vireo pallens	MAVI
@@ -658,7 +658,7 @@ Purple Finch	5170	Haemorhous purpureus	PUFI
 Purple Gallinule	2180	Porphyrio martinicus	PUGA
 Purple Martin	6110	Progne subis	PUMA
 Purple Sandpiper	2350	Calidris maritima	PUSA
-Purple Swamphen	21930	#N/A	#N/A
+Purple Swamphen	21930		
 Purplish-backed Jay	16290	Cyanocorax beecheii	PBJA
 Pygmy Nuthatch	7300	Sitta pygmaea	PYNU
 Pyrrhuloxia	5940	Cardinalis sinuatus	PYRR
@@ -866,70 +866,70 @@ Tufted Titmouse	7310	Baeolophus bicolor	TUTI
 Tundra Swan	1800	Cygnus columbianus	TUSW
 Turkey Vulture	3250	Cathartes aura	TUVU
 Unicolored Jay	16350	Aphelocoma unicolor	UNJA
-unid Black-crowned / Yellow-crowned Night-Heron	2035	#N/A	#N/A
-unid. Accipiter Hawk	3333	#N/A	#N/A
-unid. Alder Flycatcher / Willow Flycatcher	4665	#N/A	#N/A
-unid. Arctic Loon / Pacific Loon	101	#N/A	#N/A
-unid. Boat-tailed Grackle / Great-tailed Grackle	5135	#N/A	#N/A
-unid. Brotogeris Parakeet	3827	#N/A	#N/A
-unid. Bullock's Oriole / Baltimore Oriole	5077	#N/A	#N/A
-unid. Buteo Hawk	3451	#N/A	#N/A
-unid. Cave Swallow / Cliff Swallow	6122	#N/A	#N/A
-unid. Cedar Waxwing / Bohemian Waxwing	6185	#N/A	#N/A
-unid. Chickadee	7351	#N/A	#N/A
-unid. Clapper / King Rail	2090	#N/A	#N/A
-unid. Common Goldeneye / Barrow's Goldeneye	1512	#N/A	#N/A
-unid. Common Murre / Thick-billed Murre	315	#N/A	#N/A
-unid. Common Redpoll / Hoary Redpoll	5275	#N/A	#N/A
-unid. Cordilleran / Pacific-slope Flycatcher	4642	#N/A	#N/A
-unid. Cormorant	1207	#N/A	#N/A
-unid. Cowbird	4955	#N/A	#N/A
-unid. Crow	4881	#N/A	#N/A
-unid. Cuckoo	3875	#N/A	#N/A
-unid. Dusky Grouse / Sooty Grouse	2973	#N/A	#N/A
-unid. Eastern Meadowlark / Western Meadowlark	5012	#N/A	#N/A
-unid. Empidonax Flycatcher	4679	#N/A	#N/A
-unid. Glossy Ibis / White-faced Ibis	1861	#N/A	#N/A
-unid. Gnatcatcher	7539	#N/A	#N/A
-unid. Golden-Plover	2722	#N/A	#N/A
-unid. Greater Scaup / Lesser Scaup	1489	#N/A	#N/A
-unid. Greater Yellowlegs / Lesser Yellowlegs	2555	#N/A	#N/A
-unid. Gull	534	#N/A	#N/A
-unid. Hammond's Flycatcher / Dusky Flycatcher	4689	#N/A	#N/A
-unid. Heron / Egret	1945	#N/A	#N/A
-unid. Hummingbird	4402	#N/A	#N/A
-unid. Jaeger	387	#N/A	#N/A
-unid. Kingbird	4447	#N/A	#N/A
-unid. Loon	77	#N/A	#N/A
-unid. Mexican / Eastern Whip-poor-will	4170	#N/A	#N/A
-unid. Nelson's Sparrow / Saltmarsh Sparrow	5492	#N/A	#N/A
-unid. Nighthawk	4205	#N/A	#N/A
-unid. Northern Cardinal / Pyrrhuloxia	5935	#N/A	#N/A
-unid. Oak Titmouse / Juniper Titmouse	7332	#N/A	#N/A
-unid. Pacific Wren / Winter Wren	7220	#N/A	#N/A
-unid. Plumbeous / Cassin's / Blue-headed Vireo	6295	#N/A	#N/A
-unid. Purple Finch / Cassin's Finch / House Finch	5195	#N/A	#N/A
-unid. Raven	4865	#N/A	#N/A
-unid. Red Crossbill / White-winged Crossbill	5225	#N/A	#N/A
-unid. Rosy-Finch	5241	#N/A	#N/A
-unid. Ruby-throated / Black-chinned Hummingbird	4295	#N/A	#N/A
-unid. Rufous Hummingbird / Allen's Hummingbird	4335	#N/A	#N/A
-unid. Sagebrush Sparrow / Bell's Sparrow	5740	#N/A	#N/A
-unid. Sapsucker	4022	#N/A	#N/A
-unid. Scoter	1657	#N/A	#N/A
-unid. Screech-Owl	3737	#N/A	#N/A
-unid. Short-billed / Long-billed Dowitcher	2327	#N/A	#N/A
-unid. small ''peep'' sandpiper	2429	#N/A	#N/A
-unid. Spotted Towhee / Eastern Towhee	5871	#N/A	#N/A
-unid. Tern	634	#N/A	#N/A
-unid. Townsend's Warbler / Hermit Wabler	6685	#N/A	#N/A
-unid. Tropical Kingbird / Couch's Kingbird	4462	#N/A	#N/A
-unid. Tufted Titmouse / Black-crested Titmouse	7315	#N/A	#N/A
-unid. Vulture	3255	#N/A	#N/A
-unid. Western Grebe / Clark's Grebe	12	#N/A	#N/A
-unid. Woodcreeper	14035	#N/A	#N/A
-unid. Woodpecker	3920	#N/A	#N/A
-unid. Yellow-bellied Sapsucker Complex	4032	#N/A	#N/A
+unid Black-crowned / Yellow-crowned Night-Heron	2035		
+unid. Accipiter Hawk	3333		
+unid. Alder Flycatcher / Willow Flycatcher	4665		
+unid. Arctic Loon / Pacific Loon	101		
+unid. Boat-tailed Grackle / Great-tailed Grackle	5135		
+unid. Brotogeris Parakeet	3827		
+unid. Bullock's Oriole / Baltimore Oriole	5077		
+unid. Buteo Hawk	3451		
+unid. Cave Swallow / Cliff Swallow	6122		
+unid. Cedar Waxwing / Bohemian Waxwing	6185		
+unid. Chickadee	7351		
+unid. Clapper / King Rail	2090		
+unid. Common Goldeneye / Barrow's Goldeneye	1512		
+unid. Common Murre / Thick-billed Murre	315		
+unid. Common Redpoll / Hoary Redpoll	5275		
+unid. Cordilleran / Pacific-slope Flycatcher	4642		
+unid. Cormorant	1207		
+unid. Cowbird	4955		
+unid. Crow	4881		
+unid. Cuckoo	3875		
+unid. Dusky Grouse / Sooty Grouse	2973		
+unid. Eastern Meadowlark / Western Meadowlark	5012		
+unid. Empidonax Flycatcher	4679		
+unid. Glossy Ibis / White-faced Ibis	1861		
+unid. Gnatcatcher	7539		
+unid. Golden-Plover	2722		
+unid. Greater Scaup / Lesser Scaup	1489		
+unid. Greater Yellowlegs / Lesser Yellowlegs	2555		
+unid. Gull	534		
+unid. Hammond's Flycatcher / Dusky Flycatcher	4689		
+unid. Heron / Egret	1945		
+unid. Hummingbird	4402		
+unid. Jaeger	387		
+unid. Kingbird	4447		
+unid. Loon	77		
+unid. Mexican / Eastern Whip-poor-will	4170		
+unid. Nelson's Sparrow / Saltmarsh Sparrow	5492		
+unid. Nighthawk	4205		
+unid. Northern Cardinal / Pyrrhuloxia	5935		
+unid. Oak Titmouse / Juniper Titmouse	7332		
+unid. Pacific Wren / Winter Wren	7220		
+unid. Plumbeous / Cassin's / Blue-headed Vireo	6295		
+unid. Purple Finch / Cassin's Finch / House Finch	5195		
+unid. Raven	4865		
+unid. Red Crossbill / White-winged Crossbill	5225		
+unid. Rosy-Finch	5241		
+unid. Ruby-throated / Black-chinned Hummingbird	4295		
+unid. Rufous Hummingbird / Allen's Hummingbird	4335		
+unid. Sagebrush Sparrow / Bell's Sparrow	5740		
+unid. Sapsucker	4022		
+unid. Scoter	1657		
+unid. Screech-Owl	3737		
+unid. Short-billed / Long-billed Dowitcher	2327		
+unid. small ''peep'' sandpiper	2429		
+unid. Spotted Towhee / Eastern Towhee	5871		
+unid. Tern	634		
+unid. Townsend's Warbler / Hermit Wabler	6685		
+unid. Tropical Kingbird / Couch's Kingbird	4462		
+unid. Tufted Titmouse / Black-crested Titmouse	7315		
+unid. Vulture	3255		
+unid. Western Grebe / Clark's Grebe	12		
+unid. Woodcreeper	14035		
+unid. Woodpecker	3920		
+unid. Yellow-bellied Sapsucker Complex	4032		
 Upland Sandpiper	2610	Bartramia longicauda	UPSA
 Varied Bunting	6000	Passerina versicolor	VABU
 Varied Thrush	7630	Ixoreus naevius	VATH
@@ -1029,7 +1029,7 @@ Yellow-billed Cuckoo	3870	Coccyzus americanus	YBCU
 Yellow-billed Loon	80	Gavia adamsii	YBLO
 Yellow-billed Magpie	4760	Pica nuttalli	YBMA
 Yellow-breasted Chat	6830	Icteria virens	YBCH
-Yellow-chevroned Parakeet	52021	#N/A	#N/A
+Yellow-chevroned Parakeet	52021		
 Yellow-crowned Night-Heron	2030	Nyctanassa violacea	YCNH
 Yellow-eyed Junco	5700	Junco phaeonotus	YEJU
 Yellow-faced Grassquit	6032	Tiaris olivaceus	YFGR
