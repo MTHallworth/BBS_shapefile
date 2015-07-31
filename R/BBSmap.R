@@ -7,6 +7,7 @@
 #'@usage data(Birds)
 #'@export
 BBSmap<-function(SpeciesCode){
+  data(Birds)
   x<-SpeciesCode
   y<-destfile<-exdir<-rep(NA,length(x))  
   shapes<-vector('list',length(x))
