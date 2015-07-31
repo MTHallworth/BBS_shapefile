@@ -6,7 +6,7 @@
 #'with the alpha code
 #'@export
 BBSmap<-function(SpeciesCode){
- Birds<-data(NAbirdsList)
+ Birds<-data("NAbirdsList.csv")
   #Birds<-read.csv("data/NAbirdsList.csv",header=TRUE)
   x<-SpeciesCode
   y<-destfile<-exdir<-rep(NA,length(x))  
