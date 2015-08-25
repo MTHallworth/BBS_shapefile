@@ -1,6 +1,6 @@
-Package: BBS
+Package: BBS_shapefile
 Type: Package
-Title: BBS
+Title: BBS_shapefile
 Version: 1.0
 Date: 2015-07-30
 Author: M.T.Hallworth <mhallworth@gmail.com>
