@@ -1,25 +1,22 @@
-\name{BBS-package}
-\alias{BBS-package}
-\alias{BBS}
+\name{BBS_shapefile-package}
+\alias{BBS_shapefile-package}
+\alias{BBS_shapefile}
 \docType{package}
 \title{
-What the package does (short line)
-~~ package title ~~
+BBS
 }
 \description{
-More about what it does (maybe more than one line)
-~~ A concise (1-5 lines) description of the package ~~
+Reads in Relative Abundance data as either a raster or shapefile
 }
 \details{
 \tabular{ll}{
-Package: \tab BBS\cr
+Package: \tab BBS_shapefile\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2015-07-30\cr
 License: \tab What license is it under?\cr
 }
-~~ An overview of how to use the package, including the most important ~~
-~~ functions ~~
+BBSmap - downloads data from USGS and reads in as raster file (default)
 }
 \author{
 Who wrote it
@@ -37,5 +34,7 @@ Maintainer: Who to complain to <yourfault@somewhere.net>
 ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
-~~ simple examples of the most important functions ~~
+Ovenbird<-BBSmap(SpeciesCode="OVEN",MakeRaster=TRUE) # creates a raster of OVEN relative abundance #
+
+Ovenbird_shp<-BBSmap(SpeciesCode="OVEN",MakeRaster=FALSE) # returns spatialpolygondataframe (see raster package)
 }
