@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: BBSshapefile\nType: Package\nTitle: BBS_shapefile\nVersion: 1.0.1\nDate: 2015-09-20\nAuthor: M.T.Hallworth <mhallworth@gmail.com>\nMaintainer: M.T.Hallworth <mhallworth@gmail.com>\nDescription: Reads in relative abundance data from USGS's Breeding Bird Survey Website\nLicense: MIT\nLazyLoad: true\nLazyData: true\nImports:raster,\n        rgdal,\n        sp\n",
+    "created" : 1442761141549.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "406200670",
+    "id" : "DE33F080",
+    "lastKnownWriteTime" : 1442761429,
+    "path" : "G:/Google_Drive/BBS_shapefile/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "dcf"
+}

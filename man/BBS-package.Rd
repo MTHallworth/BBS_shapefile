@@ -34,7 +34,7 @@ Maintainer: Who to complain to <yourfault@somewhere.net>
 ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
-Ovenbird<-BBSmap(SpeciesCode="OVEN",MakeRaster=TRUE) # creates a raster of OVEN relative abundance #
+Ovenbird<-BBSmap(SpeciesCode="OVEN",MakeRaster=TRUE,SnapToH2=TRUE) # creates a raster of OVEN relative abundance #
 
 Ovenbird_shp<-BBSmap(SpeciesCode="OVEN",MakeRaster=FALSE) # returns spatialpolygondataframe (see raster package)
 }

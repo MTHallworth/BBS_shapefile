@@ -1,13 +1,14 @@
-Package: BBS
+Package: BBSshapefile
 Type: Package
 Title: BBS_shapefile
-Version: 1.0
-Date: 2015-08-25
+Version: 1.0.1
+Date: 2015-09-20
 Author: M.T.Hallworth <mhallworth@gmail.com>
 Maintainer: M.T.Hallworth <mhallworth@gmail.com>
 Description: Reads in relative abundance data from USGS's Breeding Bird Survey Website
 License: MIT
 LazyLoad: true
+LazyData: true
 Imports:raster,
         rgdal,
         sp

@@ -4,13 +4,19 @@
 \alias{BBSmap}
 \title{Read in BBS Relative Abundance Shapefile}
 \usage{
-data(Birds)
+\code{BBSmap(SpeciesCode="Species Alpha Code", MakeRaster=TRUE,RelAbun=FALSE,res=10000,SnapToH2=FALSE)}
 }
 \arguments{
-\item{SpeciesCode}{= x - vector of species alpha codes}
+\item{\code{SpeciesCode}}{= x - vector of species alpha codes,}
+
+\item{\code{MakeRaster}}{defaults = \code{TRUE}}
+
+\item{\code{RelAbun}}{default = \code{FALSE}}
+
+\item{\code{SnapToH2}}{default = \code{FALSE}}
 }
 \value{
-returns a shapefile with relative abundance information;
+a shapefile or raster with relative abundance information;
 if more than one alpha code is supplied returns a list of shapfiles named
 with the alpha code
 }

@@ -1,0 +1,18 @@
+{
+    "contents" : "#'Mean Annual H2 in precipitation - raster\n#'\n#'@param \\code{NorthAmerica} logical defaults to \\code{TRUE},\n#'@param \\code{Globe} logical defaults to \\code{FALSE}\n#'@return a raster containing the mean annual H2 in precipitation for North America, the Globe or a list containing both. \n#'Both maps have a North America Albers Equal Area Conic projection.\n#'@usage \\code{getH2map(NorthAmerica=TRUE,Globe=FALSE)}\n#'@export\ngetH2map<-function(NorthAmerica=TRUE,Globe=FALSE){\n  if(NorthAmerica==TRUE & Globe==FALSE){\n    northam<-raster::raster(system.file(\"extdata\",\"mad_northam.txt\",package=\"BBSshapefile\"))\n    northam<-raster::readAll(northam)\n    return(northam)\n  }\nif(NorthAmerica==FALSE & Globe==TRUE){\n  world<-raster::raster(system.file(\"extdata\",\"mad_globe.txt\",package=\"BBSshapefile\"))\n  #world<-suppressWarnings(raster::projectRaster(world,crs=\"+proj=aea +lat_1=29.5 +lat_2=45.5 +lat_0=23 +lon_0=-96 +x_0=0 +y_0=0 +datum=NAD83 +units=m +no_defs +ellps=GRS80 +towgs84=0,0,0\"))\n  return(world)\n}\n  if(NorthAmerica==TRUE & Globe==TRUE){\n    shapes<-vector('list',2)\n    shapes[[1]]<-raster::raster(system.file(\"extdata\",\"mad_northam.txt\",package=\"BBSshapefile\"))\n    shapes[[2]]<-raster::raster(system.file(\"extdata\",\"mad_globe.txt\",package=\"BBSshapefile\"))\n    #shapes[[2]]<-suppressWarnings(raster::projectRaster(shapes[[i]],crs=\"+proj=aea +lat_1=29.5 +lat_2=45.5 +lat_0=23 +lon_0=-96 +x_0=0 +y_0=0 +datum=NAD83 +units=m +no_defs +ellps=GRS80 +towgs84=0,0,0\"))\n    names(shapes)<-c(\"NorthAmerica\",\"Globe\")\n    return(Shapes)\n  }\n}",
+    "created" : 1442756874852.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1994503931",
+    "id" : "FF8BD552",
+    "lastKnownWriteTime" : 1442757481,
+    "path" : "G:/Google_Drive/BBS_shapefile/R/getH2map.R",
+    "project_path" : "R/getH2map.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
